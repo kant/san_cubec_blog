@@ -1,4 +1,5 @@
 title: San Cubec
+baseurl: https://msantner.github.io/san_cubec_blog/
 author:
   name: Santner Manuel
   email: msa.lowpoly@gmail.com
@@ -16,7 +17,7 @@ minima:
   # generate social links in footer
   social_links:
     twitter: tbd
-    github:  tbd
+    github:  https://github.com/msantner
     # devto: jekyll
     # dribbble: jekyll
     # facebook: jekyll
