@@ -6,12 +6,11 @@ author:
 description: > # this means to ignore newlines until "show_excerpts:"
   A Low-Poly City Project
 
-show_excerpts: false # set to true to show excerpts on the homepage
+show_excerpts: true # set to true to show excerpts on the homepage
 
-url: https://msantner.github.io
-baseurl: /san_cubec_blog
+url: https://msantner.github.io/san_cubec_blog/
+baseurl: /
 
-permalink: pretty
 
 # Minima date format
 # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
