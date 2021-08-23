@@ -2,7 +2,7 @@
 
 $brand-color:           #999999 !default;
 $brand-color-light:     lighten($brand-color, 80%) !default;
-$brand-color-dark:      darken($brand-color, 50%) !default;
+$brand-color-dark:      darken($brand-color, 75%) !default;
 $brand-color-edit:      darken($brand-color, 50.5%) !default;
 
 $site-title-color:      $brand-color-light !default;
