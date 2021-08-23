@@ -24,6 +24,8 @@ The _Index_ tab above is helpful for listing all the blog entries (kinda like a 
 - Twitter Link
 - Artstation Link
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fmsantner.github.io%2Fsan_cubec_blog%2F&count_bg=%23EAB929&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 
 [id1]: https://www.blender.org/
 [id2]: https://twitter.com/polylabs1
