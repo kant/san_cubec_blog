@@ -7,3 +7,5 @@
 #
 layout: home
 ---
+
+_Welcome to my personal blog about creating a low-poly metropole within Blender! You can find all recent blogs below or use the tabs at the top right to navigate through the website!_
