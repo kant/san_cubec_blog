@@ -19,7 +19,9 @@ I started to work in Blender in 2018 and quickly became obsessed; after the obvi
 
 After many models, scenes, dioramas and some animations which I shared with the world on my original [twitter][id2] account, I decided it's time for an absolutely insane project. A little upgrade, so to say. This project is what I am now sharing with the world, and via my social media channels you can follow basically all I am doing. However, worth a special mention is this blog itself, as I am using it as my own "devlog" which sometimes might just contain some more detailed information and looks behind the scenes than twitter allows me to share.
 
-The _Index_ tab above is helpful for listing all the blog entries (kinda like a table of contents) and by clicking on _San Cubec_ at the top you'll be redirected to the main page. Thanks for reading my brief introduction and without wasting any more time let's go on with building a metropole!
+The _Index_ tab above is helpful for listing all the blog entries (kinda like a table of contents) and by clicking on _San Cubec_ at the top you'll be redirected to the main page. I am also maintaining a wiki (encyclopedia) where you can quickly find lots of interesting information about the city itself.
+
+Thanks for reading my brief introduction and without wasting any more time let's go on with building a metropole!
 
 - Twitter Link
 - Artstation Link
