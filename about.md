@@ -26,3 +26,5 @@ The _Index_ tab above is helpful for listing all the blog entries (kinda like a 
 
 [id1]: https://www.blender.org/
 [id2]: https://twitter.com/polylabs1
+
+[![Image of https://github.com/msantner/my_views_counter](https://github.com/msantner/my_views_counter/blob/master/svg/profile/badge.svg)](https://github.com/msantner/my_views_counter)
