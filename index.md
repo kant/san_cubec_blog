@@ -8,4 +8,4 @@
 layout: home
 ---
 
-_Welcome to my personal blog about creating a low-poly metropole within Blender! You can find all recent posts below or use the tabs at the top right to navigate through the website! If you got some feedback, criticism or just want to say Hi please use my mail address provided in the footer below or contact me through social media (check the "About" tab for more info!)._
+_Welcome to my personal blog about creating a **low-poly metropole within Blender**! You can find all recent posts below or use the tabs at the top right to navigate through the website! If you got some feedback, criticism or just want to say "Hi!" please use my mail address provided in the footer below or contact me through social media (check the "About" tab for more info!)_
