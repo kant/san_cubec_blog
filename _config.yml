@@ -8,6 +8,8 @@ description: > # this means to ignore newlines until "show_excerpts:"
 
 show_excerpts: true # set to true to show excerpts on the homepage
 
+header: assets\images\home\san_cubec_logo.png
+
 url: https://msantner.github.io/
 baseurl: /san_cubec_blog
 
