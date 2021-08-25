@@ -21,7 +21,7 @@ After many models, scenes, dioramas and some animations which I shared with the 
 
 ## <span style = "color:#e1a846">Cubic Worlds - Only Cubes!</span>
 
-I did the [Cubic Worlds][id3] course from CG Boost and I can highly recommend it! Altough being an intermediate course, every lesson is explained in detail and if something is still unclear you can directly ask the tutors in each lection's own comment section.\
+I did the [Cubic Worlds][id3] course from CG Boost and I can highly recommend it! Although being an intermediate course, every lesson is explained in detail and if something is still unclear you can directly ask the tutors in each lection's own comment section.\
 The course is about creating assets and scenes in the so-called "Cubic Worlds" style - i.e. only using cubes!
 
 ![Cubic Worlds](https://msantner.github.io/san_cubec_blog/assets/images/onlycubes/campfire_render_HD_cgBoost.jpg "Cubic Worlds by CG Boost")
