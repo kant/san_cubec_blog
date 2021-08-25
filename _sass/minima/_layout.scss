@@ -11,6 +11,16 @@
   position: relative;
 }
 
+// Add image to top of site - custom code snippet
+
+.site-title::before {
+	content: url("/assets/logo.png");
+	display: inline-block;
+	position: relative;
+	width: 64px;
+	top: 5px;
+}
+
 .site-title {
   @include relative-font-size(1.625);
   font-weight: 300;
@@ -26,16 +36,6 @@
   &:visited {
     color: $site-title-color;
   }
-}
-
-// Add image to top of site - custom code snippet
-
-.site-title::before {
-	content: url("/assets/images/home/san_cubec_logo.jpg");
-	display: inline-block;
-	position: relative;
-	width: 35px;
-	top: 5px;
 }
 
 .site-nav {
