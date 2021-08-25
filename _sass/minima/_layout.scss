@@ -13,7 +13,7 @@
 
 // Add image to top of site - custom code snippet
 
-.site-title::before {
+.site-title::after {
 	content: url("/assets/logo.png");
 	display: inline-block;
 	position: relative;
