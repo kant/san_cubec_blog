@@ -31,14 +31,18 @@ Being a fan of low-poly art, this inspired me to make my very own "Cubic World",
 
 ## <span style = "color:#e1a846">Site Content</span>
 
-The _Index_ tab above is helpful for listing all the blog entries (kinda like a table of contents) and by clicking on _San Cubec City_ or the logo at the top you'll be redirected to the main page. I am also maintaining a wiki (encyclopedia) where you can quickly find lots of interesting information about the city itself. The gallery contains renders of finished models and scenes.
+The _Index_ tab above is helpful for listing all the blog entries (kinda like a table of contents) and by clicking on _San Cubec City_ or the logo at the top you'll be redirected to the main page. I am also maintaining a wiki (_Encyclopedia_) where you can quickly find lots of interesting information about the city itself. The _Gallery_ contains renders of finished models and scenes.
 
 Thanks for reading my brief introduction and without wasting any more time let's go on with building a metropole!
 
 - Twitter Link
 - Artstation Link
+- Further links
+
+_This webpage is using a customized version of the free [jekyll minima theme][id5]_
 
 [id1]: https://www.blender.org/
 [id2]: https://twitter.com/polylabs1
 [id3]: https://academy.cgboost.com/p/cubic-worlds?gclid=Cj0KCQjwsZKJBhC0ARIsAJ96n3W_9L7n7j6kek5aYHuqJJTN0mk778djAPC8bbnDOyVdEAy8UvHPjUsaAlNEEALw_wcB
 [id4]: https://msantner.github.io/san_cubec_blog/
+[id5]: https://github.com/jekyll/minima
