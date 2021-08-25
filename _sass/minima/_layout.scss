@@ -14,7 +14,7 @@
 // Add image to top of site - custom code snippet
 
 .site-title::after {
-	content: url("/logo.png");
+	content: baseurl("/logo.png");
 	display: inline-block;
 	position: relative;
 	width: 16px;
