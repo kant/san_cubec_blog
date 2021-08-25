@@ -15,8 +15,7 @@ And you know what?
 I absolutely love modelling low-poly stuff in Blender!
 I started to work in Blender in 2018 and quickly became obsessed; after the obvious donut and some humble initial models and scenes I decided to stick to the low-poly style. In parallel, I quickly discovered a _weird obession_ in making city buildings, traffic junctions, streets, trains and cars.
 
-<img src="https://msantner.github.io/san_cubec_blog/assets/images/about/cabrio.png" alt="Lw-Poly Cabrio" width="700"/>
-<!--![Low-Poly Cabrio](https://msantner.github.io/san_cubec_blog/assets/images/about/cabrio.png "Low-Poly Cabrio")-->
+![Low-Poly Cabrio](https://msantner.github.io/san_cubec_blog/assets/images/about/cabrio.png "Low-Poly Cabrio")
 
 After many models, scenes, dioramas and some animations which I shared with the world on my original [twitter][id2] account, I decided it's time for an absolutely insane project. A little upgrade, so to say. This project is what I am now sharing with the world, and via my social media channels you can follow basically all I am doing. However, worth a special mention is this blog itself, as I am using it as my own "devlog" which sometimes might just contain some more detailed information and looks behind the scenes than twitter allows me to share.
 
@@ -25,8 +24,7 @@ After many models, scenes, dioramas and some animations which I shared with the 
 I did the [Cubic Worlds][id3] course from CG Boost and I can highly recommend it! Altough being an intermediate course, every lesson is explained in detail and if something is still unclear you can directly ask the tutors in each lection's own comment section.\
 The course is about creating assets and scenes in the so-called "Cubic Worlds" style - i.e. only using cubes!
 
-<img src="https://msantner.github.io/san_cubec_blog/assets/images/onlycubes/campfire_render_HD_cgBoost.jpg" alt="Cubic Worlds by CG Boost" width="700"/>
-<!--![Cubic Worlds](https://msantner.github.io/san_cubec_blog/assets/images/onlycubes/campfire_render_HD_cgBoost.jpg "Cubic Worlds by CG Boost")-->
+![Cubic Worlds](https://msantner.github.io/san_cubec_blog/assets/images/onlycubes/campfire_render_HD_cgBoost.jpg "Cubic Worlds by CG Boost")
 <p style="text-align: center;"> <i>Cubic Worlds Campfire Scene. Image source: <a href="url">https://academy.cgboost.com/p/cubic-worlds</a></i></p>
 
 Being a fan of low-poly art, this inspired me to make my very own "Cubic World", but with some slight differences which I'm explaining in [this][id4] post.
