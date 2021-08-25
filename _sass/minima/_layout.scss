@@ -13,8 +13,8 @@
 
 // Add image to top of site - custom code snippet
 
-.site-title::after {
-	content: baseurl("/logo.png");
+.site-title::before {
+	content: url("/san_cubec_blog/logo.png");
 	display: inline-block;
 	position: relative;
 	width: 16px;
