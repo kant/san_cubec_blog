@@ -28,12 +28,14 @@
   }
 }
 
+// Add image to top of site - custom code snippet
+
 .site-title::before {
 	content: url("/assets/images/home/san_cubec_logo.png");
 	display: inline-block;
 	position: relative;
-	width: 40px;
-	top: 10px;
+	width: 35px;
+	top: 5px;
 }
 
 .site-nav {
